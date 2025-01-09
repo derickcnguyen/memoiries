@@ -59,8 +59,8 @@ To get started with Memoiries, follow these steps:
    cd memoiries
 
    .env file
-VITE_SUPABASE_URL
-VITE_SUPABASE_ANON_KEY
+   VITE_SUPABASE_URL
+   VITE_SUPABASE_ANON_KEY
 
    npm install
    npm audit fix
