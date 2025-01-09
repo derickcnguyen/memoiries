@@ -58,6 +58,10 @@ To get started with Memoiries, follow these steps:
    git clone https://github.com/derickcnguyen/memoiries.git
    cd memoiries
 
+   .env file
+VITE_SUPABASE_URL
+VITE_SUPABASE_ANON_KEY
+
    npm install
    npm audit fix
    npm run dev
